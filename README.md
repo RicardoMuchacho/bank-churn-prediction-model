@@ -93,4 +93,4 @@ Queremos agradecer a los colaboradores siguientes por su invaluable apoyo:
 
 - Información de Contacto - 
 
-Para cualquier consulta o problema, contacta al equipo quien maneja a este proyecto en ricardomuchacho.developer@gmail.com, o sergio19959@gmail.com o antoinemaisonhaute59@gmail.com.
+Para cualquier consulta o problema, ponte en contacto con el equipo que gestiona este proyecto a través de los siguientes correos electrónicos: ricardomuchacho.developer@gmail.com, sergio19959@gmail.com, antoinemaisonhaute59@gmail.com o jcamachoo@student.eae.es.
