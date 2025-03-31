@@ -13,9 +13,6 @@ with open("xgb_churn_model.pkl", "rb") as model_file:
 df = pd.read_csv("customers-clean.csv")  # Replace with your actual dataset
 df = df.drop(columns=['Exited'])
 
-scaler = StandardScaler()
-df_scaled = scaler.fit_transform(df)  # Apply the same scaling
-
 # Predict churn probability
 churn_predictions = model.predict_proba(df)[:,1]
 
